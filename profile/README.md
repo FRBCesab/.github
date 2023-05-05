@@ -6,4 +6,4 @@ By encouraging the groups hosted to allow everyone to access to the tools and da
 
 ### Selection of R packages
 
-[![rcompendium](https://github-readme-stats.vercel.app/api?username=frbcesab)](https://github.com/frbcesab/rcompendium)
+[![rcompendium](https://github-readme-stats.vercel.app/api?username=ahasverus)](https://github.com/frbcesab/rcompendium)
