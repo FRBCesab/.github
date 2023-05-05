@@ -13,6 +13,7 @@ By encouraging the groups hosted to allow everyone to access to the tools and da
 [![rwoslite](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rwoslite&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/rwoslite)
 [![zoteror](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=zoteror&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/zoteror)
 [![robinmap](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=robinmap&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/robinmap)
+[![rutils](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rutils&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/rutils)
 
 ### Training courses
 
