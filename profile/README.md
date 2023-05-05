@@ -28,10 +28,18 @@ By encouraging the researchers groups to share the tools and databases developed
 <table>
   <tr>
     <td>
-      <img src='https://frbcesab.github.io/training-courses/img/logo-rdatatoolbox_150dpi.png' width=100px>
+      <a href="https://rdatatoolbox.github.io"><img src='https://frbcesab.github.io/training-courses/img/logo-rdatatoolbox_150dpi.png' width=150px></a>
     </td>
     <td>
-      <a href="https://rdatatoolbox.github.io">Reproducible research with R</a>
+      Reproducible Research in Computational Ecology
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://theodatasci.github.io"><img src='https://frbcesab.github.io/training-courses/img/logo-theodatasci_150dpi.png' width=150px></a>
+    </td>
+    <td>
+      Theory-driven analysis of ecological data
     </td>
   </tr>
 </table>
