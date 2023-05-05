@@ -4,7 +4,9 @@
 
 By encouraging the researchers groups to share the tools and databases developed as part of their work, the FRB-CESAB is supporting open science since the centre opened in 2010.
 
-🔗 For a complete list of our tools and databases, visit <https://frbcesab.github.io>
+<br/>
+
+🔗 **For a complete list of our tools and databases, visit <https://frbcesab.github.io>**
 
 <br/>
 
@@ -19,7 +21,9 @@ By encouraging the researchers groups to share the tools and databases developed
 [![robinmap](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=robinmap&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/robinmap)
 [![rutils](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rutils&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/rutils)
 
-🚀 Visit our packages repository: <https://frbcesab.r-universe.dev/>
+<br/>
+
+🚀 **Visit our packages repository: <https://frbcesab.r-universe.dev/>**
 
 <br/>
 
@@ -31,7 +35,7 @@ By encouraging the researchers groups to share the tools and databases developed
       <a href="https://rdatatoolbox.github.io"><img src='https://frbcesab.github.io/training-courses/img/logo-rdatatoolbox_150dpi.png' width=150px></a>
     </td>
     <td>
-      Reproducible Research in Computational Ecology
+      Reproducible research in computational ecology
     </td>
   </tr>
   <tr>
@@ -42,8 +46,18 @@ By encouraging the researchers groups to share the tools and databases developed
       Theory-driven analysis of ecological data
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://iteraturesynthesis.github.io"><img src='https://frbcesab.github.io/training-courses/img/logo-literaturesynthesis_150dpi.png' width=150px></a>
+    </td>
+    <td>
+      Meta-analyses & Systematic reviews
+    </td>
+  </tr>
 </table>
 
-- Reproduciblity research in computational ecology
-- Theory-driven analysis of ecological data
-- Meta-analyses & Systematic reviews
+<br/>
+
+🚀 **Visit our training courses portal: <https://frbcesab.github.io/training-courses>**
+
+<br/>
