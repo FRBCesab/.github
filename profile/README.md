@@ -9,7 +9,7 @@ By encouraging the groups hosted to allow everyone to access to the tools and da
 <table>
   <tbody align="center">
     <tr>
-      <td><a href="https://github.com/frbcesab/rcompendium"><b>rcompendium</b></a></td>
+      <td><a href="https://github.com/frbcesab/rcompendium"><b>:package: rcompendium</b></a></td>
       <td><a href="https://github.com/frbcesab/rcompendium"><b>rcompendium</b></a></td>
       <td><a href="https://github.com/frbcesab/rcompendium"><b>rcompendium</b></a></td>
     </tr>
