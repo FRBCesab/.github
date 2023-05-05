@@ -23,7 +23,7 @@ By encouraging the researchers groups to share the tools and databases developed
 
 <br/>
 
-🚀 **Visit our packages repository: <https://frbcesab.r-universe.dev/>**
+🔗 **Visit our packages repository: <https://frbcesab.r-universe.dev/>**
 
 <br/>
 
@@ -58,6 +58,6 @@ By encouraging the researchers groups to share the tools and databases developed
 
 <br/>
 
-🚀 **Visit our training courses portal: <https://frbcesab.github.io/training-courses>**
+🔗 **Visit our training courses portal: <https://frbcesab.github.io/training-courses>**
 
 <br/>
