@@ -30,8 +30,6 @@ By encouraging the researchers groups to share the tools and databases developed
     <td>
       <img src='https://frbcesab.github.io/training-courses/img/logo-rdatatoolbox_150dpi.png' width=100px>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://rdatatoolbox.github.io">Reproducible research with R</a>
     </td>
