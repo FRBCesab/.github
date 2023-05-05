@@ -4,7 +4,9 @@
 
 By encouraging the researchers groups to share the tools and databases developed as part of their work, the FRB-CESAB is supporting open science since the centre opened in 2010.
 
-🔗 Website listed tools and database: <https://frbcesab.github.io>
+🔗 For a complete list of our tools and databases, visit <https://frbcesab.github.io>
+
+<br/>
 
 ### Selection of R packages
 
@@ -16,6 +18,10 @@ By encouraging the researchers groups to share the tools and databases developed
 [![zoteror](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=zoteror&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/zoteror)
 [![robinmap](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=robinmap&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/robinmap)
 [![rutils](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rutils&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/rutils)
+
+🚀 Visit our packages repository: <https://frbcesab.r-universe.dev/>
+
+<br/>
 
 ### Training courses
 
