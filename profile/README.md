@@ -2,11 +2,11 @@
 
 [![](https://raw.githubusercontent.com/frbcesab/.github/main/profile/banner-frbcesab_150dpi.png)](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)
 
-By encouraging the researchers groups to share the tools and databases developed as part of their work, the FRB-CESAB is supporting open science since the centre opened in 2010.
+By encouraging its groups of researchers to share the tools and databases developed as part of their work, the FRB-CESAB is supporting open science since the centre opened in 2010.
 
 <br/>
 
-🔗 **For a complete list of our tools and databases, visit <https://frbcesab.github.io>**
+🌐 **For a complete list of our tools and databases, visit <https://frbcesab.github.io>**
 
 <br/>
 
@@ -23,7 +23,7 @@ By encouraging the researchers groups to share the tools and databases developed
 
 <br/>
 
-🔗 **Visit our packages repository: <https://frbcesab.r-universe.dev/>**
+🌐 **Visit our packages repository: <https://frbcesab.r-universe.dev/>**
 
 <br/>
 
@@ -58,6 +58,6 @@ By encouraging the researchers groups to share the tools and databases developed
 
 <br/>
 
-🔗 **Visit our training courses portal: <https://frbcesab.github.io/training-courses>**
+🌐 **Visit our training courses portal: <https://frbcesab.github.io/training-courses>**
 
 <br/>
