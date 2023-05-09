@@ -35,9 +35,9 @@ By encouraging its groups of researchers to share the tools and databases develo
       <a href="https://rdatatoolbox.github.io"><img src='https://frbcesab.github.io/training-courses/img/logo-rdatatoolbox_150dpi.png' width=150px></a>
     </td>
     <td>
-      <b>Reproducible research in computational ecology</b></br>
-      Website: <a href="https://rdatatoolbox.github.io">"https://rdatatoolbox.github.io"</a></br>
-      GitHub: <a href="https://github.com/rdatatoolbox">"https://github.com/rdatatoolbox"</a>
+      <b>Reproducible research in computational ecology</b></br></br>
+      Website: <a href="https://rdatatoolbox.github.io">https://rdatatoolbox.github.io</a></br>
+      GitHub: <a href="https://github.com/rdatatoolbox">https://github.com/rdatatoolbox</a>
     </td>
   </tr>
   <tr>
