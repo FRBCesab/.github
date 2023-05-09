@@ -45,15 +45,19 @@ By encouraging its groups of researchers to share the tools and databases develo
       <a href="https://theodatasci.github.io"><img src='https://frbcesab.github.io/training-courses/img/logo-theodatasci_150dpi.png' width=150px></a>
     </td>
     <td>
-      Theory-driven analysis of ecological data
+      <b>Theory-driven analysis of ecological data</b></br></br>
+      Website: <a href="https://theodatasci.github.io">https://theodatasci.github.io</a></br>
+      GitHub: <a href="https://github.com/theodatasci">https://github.com/theodatasci</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://iteraturesynthesis.github.io"><img src='https://frbcesab.github.io/training-courses/img/logo-literaturesynthesis_150dpi.png' width=150px></a>
+      <a href="https://literaturesynthesis.github.io"><img src='https://frbcesab.github.io/training-courses/img/logo-literaturesynthesis_150dpi.png' width=150px></a>
     </td>
     <td>
-      Meta-analyses & Systematic reviews
+      <b>Meta-analyses & Systematic reviews</b></br></br>
+      Website: <a href="https://literaturesynthesis.github.io">https://literaturesynthesis.github.io</a></br>
+      GitHub: <a href="https://github.com/literaturesynthesis">https://github.com/literaturesynthesis</a>
     </td>
   </tr>
 </table>
