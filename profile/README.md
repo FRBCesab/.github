@@ -4,23 +4,32 @@
 
 The [CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) – Centre for the Synthesis and Analysis of Biodiversity – is a key program of the [FRB](https://www.fondationbiodiversite.fr/en/) (Foundation for Research on Biodiversity) and is an original, innovative and internationally recognized tool that offers researchers a place and time to synthesize and analyze already existing data and information in the field of biodiversity research.
 
+Since it was created in 2010, the CESAB has been collecting and pooling existing data and information in the field of biodiversity in order to assess the state of biodiversity and model its future. CESAB groups are composed of international researchers and coordinated by a researcher affiliated with a French research structure.
+
+After pooling and studying existing data on biodiversity, CESAB groups publish their work in numerous peer-reviewed [scientific articles](https://www.fondationbiodiversite.fr/en/cesab-scientific-publications/) to share with the international scientific community.
+
 By encouraging its groups of researchers to share the tools and databases developed as part of their work, the FRB-CESAB is supporting open science since the centre opened in 2010.
 
 <br/>
 
 <table>
   <tr>
-    <td>🌐 &nbsp;Tools and databases
+    <td>🌐 &nbsp;<b>Publications</b>
+    </td>
+    <td><a href="https://www.fondationbiodiversite.fr/en/cesab-scientific-publications/">https://www.fondationbiodiversite.fr/en/cesab-scientific-publications/</a>
+  </tr>
+  <tr>
+    <td>🌐 &nbsp;<b>Tools and Databases</b>
     </td>
     <td><a href="https://frbcesab.github.io">https://frbcesab.github.io</a>
   </tr>
   <tr>
-    <td>🌐 &nbsp;Packages repository
+    <td>🌐 &nbsp;<b>Packages repository</b>
     </td>
     <td><a href="https://frbcesab.r-universe.dev">https://frbcesab.r-universe.dev</a>
   </tr>
   <tr>
-    <td>🌐 &nbsp;Training courses
+    <td>🌐 &nbsp;<b>Training courses</b>
     </td>
     <td><a href="https://frbcesab.github.io/training-courses">https://frbcesab.github.io/training-courses</a>
   </tr>
