@@ -2,11 +2,29 @@
 
 [![](https://raw.githubusercontent.com/frbcesab/.github/main/profile/banner-frbcesab_150dpi.png)](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)
 
+The [CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) – Centre for the Synthesis and Analysis of Biodiversity – is a key program of the [FRB](https://www.fondationbiodiversite.fr/en/) (Foundation for Research on Biodiversity) and is an original, innovative and internationally recognized tool that offers researchers a place and time to synthesize and analyze already existing data and information in the field of biodiversity research.
+
 By encouraging its groups of researchers to share the tools and databases developed as part of their work, the FRB-CESAB is supporting open science since the centre opened in 2010.
 
 <br/>
 
-🌐 &nbsp;**For a complete list of our tools and databases, visit <https://frbcesab.github.io>**
+<table>
+  <tr>
+    <td>🌐 &nbsp;Tools and databases
+    </td>
+    <td><a href="https://frbcesab.github.io">https://frbcesab.github.io</a>
+  </tr>
+  <tr>
+    <td>🌐 &nbsp;Packages repository
+    </td>
+    <td><a href="https://frbcesab.r-universe.dev">https://frbcesab.r-universe.dev</a>
+  </tr>
+  <tr>
+    <td>🌐 &nbsp;Training courses
+    </td>
+    <td><a href="https://frbcesab.github.io/training-courses">https://frbcesab.github.io/training-courses</a>
+  </tr>
+<table>
 
 <br/>
 
