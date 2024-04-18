@@ -33,6 +33,11 @@ By encouraging its groups of researchers to share the tools and databases develo
     </td>
     <td><a href="https://frbcesab.github.io/content/courses.html">https://frbcesab.github.io/content/courses.html</a>
   </tr>
+  <tr>
+    <td>🌐 &nbsp;<b>Blog</b>
+    </td>
+    <td><a href="https://frbcesab.github.io/tips-and-tricks">https://frbcesab.github.io/tips-and-tricks</a>
+  </tr>
 <table>
 
 <br/>
