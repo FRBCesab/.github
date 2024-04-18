@@ -31,7 +31,7 @@ By encouraging its groups of researchers to share the tools and databases develo
   <tr>
     <td>🌐 &nbsp;<b>Training courses</b>
     </td>
-    <td><a href="https://frbcesab.github.io/training-courses">https://frbcesab.github.io/training-courses</a>
+    <td><a href="https://frbcesab.github.io/content/courses.html">https://frbcesab.github.io/content/courses.html</a>
   </tr>
 <table>
 
@@ -87,10 +87,20 @@ By encouraging its groups of researchers to share the tools and databases develo
       GitHub: <a href="https://github.com/literaturesynthesis">https://github.com/literaturesynthesis</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://econetoolbox.github.io"><img src='https://raw.githubusercontent.com/econetoolbox/econetoolbox.github.io/main/images/logo-networks_150dpi.png' width=150px></a>
+    </td>
+    <td>
+      <b>Analyzing ecological network data</b></br></br>
+      Website: <a href="https://econetoolbox.github.io">https://econetoolbox.github.io</a></br>
+      GitHub: <a href="https://github.com/econetoolbox">https://github.com/econetoolbox</a>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-🌐 &nbsp;**Visit our training courses portal: <https://frbcesab.github.io/training-courses>**
+🌐 &nbsp;**Visit our training courses portal: <https://frbcesab.github.io/content/courses.html>**
 
 <br/>
