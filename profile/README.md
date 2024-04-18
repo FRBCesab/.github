@@ -97,6 +97,16 @@ By encouraging its groups of researchers to share the tools and databases develo
       GitHub: <a href="https://github.com/econetoolbox">https://github.com/econetoolbox</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://biodiversitydata.github.io"><img src='https://raw.githubusercontent.com/biodiversitydata/biodiversitydata.github.io/main/images/logo-biodiversitydata_150dpi.png' width=150px></a>
+    </td>
+    <td>
+      <b>Biodiversity data management</b></br></br>
+      Website: <a href="https://biodiversitydata.github.io">https://biodiversitydata.github.io</a></br>
+      GitHub: <a href="https://github.com/biodiversitydata">https://github.com/biodiversitydata</a>
+    </td>
+  </tr>
 </table>
 
 <br/>
