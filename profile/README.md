@@ -114,7 +114,7 @@ By encouraging its groups of researchers to share the tools and databases develo
   </tr>
   <tr>
     <td>
-      <a href="https://ai-ecol.github.io/"><img src='https://raw.githubusercontent.com/AI-ecol/AI-ecol.github.io/refs/heads/main/images/logo-biodiversitydata_150dpi.png' width=150px></a>
+      <a href="https://ai-ecol.github.io/"><img src='https://raw.githubusercontent.com/AI-ecol/AI-ecol.github.io/refs/heads/main/images/logo-biodiv-ia-si.png' width=150px></a>
     </td>
     <td>
       <b>AI for ecologists: A toolkit</b></br></br>
