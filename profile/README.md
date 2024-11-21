@@ -45,13 +45,12 @@ By encouraging its groups of researchers to share the tools and databases develo
 ### Selection of R packages
 
 [![rcompendium](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rcompendium)](https://github.com/frbcesab/rcompendium)
-[![chessboard](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=chessboard&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/chessboard)
-[![funbiogeo](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=funbiogeo&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/funbiogeo)
-[![worldpa](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=worldpa&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/worldpa)
-[![rwoslite](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rwoslite&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/rwoslite)
-[![zoteror](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=zoteror&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/zoteror)
-[![robinmap](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=robinmap&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/robinmap)
-[![rutils](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rutils&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/rutils)
+[![chessboard](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=chessboard)](https://github.com/frbcesab/chessboard)
+[![funbiogeo](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=funbiogeo)](https://github.com/frbcesab/funbiogeo)
+[![worldpa](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=worldpa)](https://github.com/frbcesab/worldpa)
+[![rwoslite](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rwosstarter)](https://github.com/frbcesab/rwosstarter)
+[![zoteror](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=zoteror)](https://github.com/frbcesab/zoteror)
+[![robinmap](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=robinmap)](https://github.com/frbcesab/robinmap)
 
 <br/>
 
@@ -110,6 +109,16 @@ By encouraging its groups of researchers to share the tools and databases develo
       <b>Biodiversity data management</b></br></br>
       Website: <a href="https://biodiversitydata.github.io">https://biodiversitydata.github.io</a></br>
       GitHub: <a href="https://github.com/biodiversitydata">https://github.com/biodiversitydata</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ai-ecol.github.io/"><img src='https://raw.githubusercontent.com/AI-ecol/AI-ecol.github.io/refs/heads/main/images/logo-biodiversitydata_150dpi.png' width=150px></a>
+    </td>
+    <td>
+      <b>AI for ecologists: A toolkit</b></br></br>
+      Website: <a href="https://ai-ecol.github.io/">https://biodiversitydata.github.io</a></br>
+      GitHub: <a href="https://github.com/ai-ecol">https://github.com/biodiversitydata</a>
     </td>
   </tr>
 </table>
