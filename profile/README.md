@@ -50,6 +50,7 @@ By encouraging its groups of researchers to share the tools and databases develo
 [![worldpa](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=worldpa)](https://github.com/frbcesab/worldpa)
 [![rwoslite](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rwosstarter)](https://github.com/frbcesab/rwosstarter)
 [![zoteror](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=zoteror)](https://github.com/frbcesab/zoteror)
+[![forcis](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=forcis)](https://github.com/frbcesab/forcis)
 [![robinmap](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=robinmap)](https://github.com/frbcesab/robinmap)
 
 <br/>
