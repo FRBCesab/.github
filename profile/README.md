@@ -118,8 +118,8 @@ By encouraging its groups of researchers to share the tools and databases develo
     </td>
     <td>
       <b>AI for ecologists: A toolkit</b></br></br>
-      Website: <a href="https://ai-ecol.github.io/">https://biodiversitydata.github.io</a></br>
-      GitHub: <a href="https://github.com/ai-ecol">https://github.com/biodiversitydata</a>
+      Website: <a href="https://ai-ecol.github.io/">https://ai-ecol.github.io</a></br>
+      GitHub: <a href="https://github.com/ai-ecol">https://github.com/ai-ecol</a>
     </td>
   </tr>
 </table>
