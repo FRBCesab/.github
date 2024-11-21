@@ -44,7 +44,7 @@ By encouraging its groups of researchers to share the tools and databases develo
 
 ### Selection of R packages
 
-[![rcompendium](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rcompendium&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/rcompendium)
+[![rcompendium](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=rcompendium)](https://github.com/frbcesab/rcompendium)
 [![chessboard](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=chessboard&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/chessboard)
 [![funbiogeo](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=funbiogeo&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/funbiogeo)
 [![worldpa](https://github-readme-stats.vercel.app/api/pin?username=frbcesab&repo=worldpa&border_color=121d2f&bg_color=0D1117&title_color=2f81f7&text_color=8B949E&icon_color=7d8590)](https://github.com/frbcesab/worldpa)
